@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget>
   <ver>1</ver>
-  <size>15123640</size>
+  <size>10922867</size>
   <widgetname>ReactApp</widgetname>
   <webtype>tizen</webtype>
   <wgt src="ReactApp.wgt"/>
